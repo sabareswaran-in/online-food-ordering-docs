@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Online Food Ordering System
 
@@ -85,3 +86,7 @@ the ordering experience.
 ## Author
 
 Student Name: Your Name
+=======
+# online-food-ordering-docs
+Documentation for an Online Food Ordering System
+>>>>>>> 405505d55c3074f5972f1dc66031f37d01148a13
